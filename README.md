@@ -1,5 +1,4 @@
 # 🎯 Kim Yu-Jin's AI/ML Portfolio
-**"Pioneering AI-driven solutions for real-world challenges through multi-agent systems and human-centered design"**
 
 ## 👋 Introduction
 안녕하세요, 김유진입니다. 저는 멀티에이전트 시스템과 인간-AI 협업을 통해 복잡한 문제를 해결하는 AI 서비스 기획자를 꿈꾸고 있습니다.
