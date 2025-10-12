@@ -1,7 +1,3 @@
-아래는 LG전자 경험을 GitHub README에 자연스럽게 통합한 버전입니다:
-
----
-
 # 🎯 Kim Yu-Jin's AI/ML Portfolio
 **"Pioneering AI-driven solutions for real-world challenges through multi-agent systems and human-centered design"**
 
